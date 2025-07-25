@@ -1,0 +1,9 @@
+Design the following tables:
+
+1.Companies
+2.Warehouses
+3.Products
+4.Inventory
+5.Inventory_Changes
+6.Suppliers
+7.Supplier_Products
