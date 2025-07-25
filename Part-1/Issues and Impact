@@ -7,3 +7,4 @@ Issues and Impact:
 5. No response status code {Always return a proper HTTP status code}
 6. SKU should be unique {sku = Stock Keeping Unit - unique identifier for each product}
 7. No error messages
+8. Check if SKU already exists 
